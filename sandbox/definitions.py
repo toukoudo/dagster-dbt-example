@@ -7,7 +7,7 @@ from sandbox import assets  # noqa: TID252
 
 
 # Points to the dbt project path
-dbt_project_directory = Path(__file__).absolute().parent / "basic-dbt-project/dbt_sample_project_with_duckdb/sandbox"
+dbt_project_directory = Path(__file__).absolute().parent / "basic-dbt-project/sandbox"
 dbt_project = DbtProject(project_dir=dbt_project_directory)
 
 # References the dbt project object
