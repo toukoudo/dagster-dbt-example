@@ -1,3 +1,0 @@
-[submodule "sandbox/basic-dbt-project"]
-	path = sandbox/basic-dbt-project
-	url = https://github.com/toukoudo/dbt_sample_project_with_duckdb.git
