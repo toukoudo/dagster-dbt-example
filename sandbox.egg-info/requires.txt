@@ -1,0 +1,10 @@
+dagster
+dagster-cloud
+plotly
+pandas
+dagster-dbt
+dbt-duckdb
+
+[dev]
+dagster-webserver
+pytest
